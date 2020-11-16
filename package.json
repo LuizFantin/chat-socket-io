@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/LuizFantin/chat-socket-io/issues"
   },
-  "homepage": "https://github.com/LuizFantin/chat-socket-io#readme"
+  "homepage": "https://github.com/LuizFantin/chat-socket-io#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1"
+  }
 }
